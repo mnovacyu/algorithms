@@ -5,7 +5,6 @@ Book: https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
 
 # Overview
 ## Chapter 1 - Fundamentals
-------
 - Java programming model
 - data abstraction
 - basic data structures
@@ -13,7 +12,6 @@ Book: https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
 - methods of analyzing algorithm performance
 
 ## Chapter 2 - Sorting Algorithms
-------
 - rearranging arrays in order
 - insertion sort
 - selection sort
@@ -26,13 +24,11 @@ Book: https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
 - merging
 
 ## Chapter 3 - Searching Algorithms
-------
 - binary search trees
 - balanced search trees
 - hashing
 
 ## Chapter 4 - Graphs
-------
 - sets of objects and connections, with weights and orientation
 - depth-first search
 - breadth-first search
@@ -43,7 +39,6 @@ Book: https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
   - shortest-paths problems
 
 ## Chapter 5 - Strings
-------
 - range of methods for processing sequences of characters
 - faster algorithms for sorting and searching when keys are strings
 - substring search
@@ -51,7 +46,6 @@ Book: https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
 - data-compression algorithms
 
 ## Chapter 6 - Context
-------
 - relate material to other advanced fields of study
   - scientific computing
   - operations research
