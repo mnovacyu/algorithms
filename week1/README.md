@@ -1,3 +1,5 @@
+![](2018-10-02-21-40-28.png)
+
 ### Steps to developing a usable algorithm:
 1. Model the the problem.
 1. Find an algorithm to solve it.
