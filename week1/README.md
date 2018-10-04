@@ -23,25 +23,29 @@
 
 ### 1. Dynamic Connectivity Problem
   ![](slides/2018-09-30-16-47-39.png)
+
   ![](slides/2018-10-02-21-17-19.png)
+  
   ![](slides/2018-10-02-20-24-00.png)
+  
   ![](slides/2018-10-02-20-24-39.png)
 
 -----
 
 ### 2. Quick Find (eager approach algorithm)
   ![](slides/2018-10-02-20-29-00.png)
+
   ![](slides/2018-10-02-20-30-09.png)
+  
   ![](slides/2018-10-02-20-43-16.png)
+  
   ![](slides/2018-10-02-21-23-01.png)
+  
   ![](slides/2018-10-02-21-35-13.png)
-
-
 
 -----
 
 ## Analysis of Algorithms
-
 
 #### Suggested Reading
 Section 1.4 and 1.5 in Algorithms, 4th edition.
