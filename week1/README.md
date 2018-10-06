@@ -1,6 +1,6 @@
-![](2018-10-02-21-40-28.png)
+![](slides/2018-10-02-21-40-28.png)
 
-=====
+-----
 
 ## Summary: Union-Find
 1. Dynamic Connectivity problem
@@ -137,7 +137,7 @@
   -----
   ![](slides/2018-10-06-14-40-13.png)
 
-======
+-----
 
 ## Analysis of Algorithms
 
