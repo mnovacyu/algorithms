@@ -34,7 +34,8 @@
   -----
 
 ### 3. Quick Union (lazy approach algorithm)
-  * Union should be faster, but still could be just as slow in worst case scenarios. Trees can also get too tall from union, which makes find way too expensive.
+  * Union should be faster, but still could be just as slow in worst case scenarios.
+    * Trees can also get too tall from union, which makes find way too expensive.
 
   -----
 
